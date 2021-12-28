@@ -1,0 +1,21 @@
+h1{
+    font-size: 60px;
+    width: 50%;
+}
+.btn-success{
+    font-size: 25px;
+    box-shadow: 5px 5px 10px rgb(1, 117, 1) ;
+}
+.btn-warning:hover{
+    background-color: red;
+}
+canvas{
+    animation-name:oohhhhhh;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    margin-top: 50px; 
+}
+@keyframes oohhhhhh {
+    from {box-shadow: 1px 1px 30px black ;}
+    to {box-shadow: 1px 1px 30px grey ;}
+}
