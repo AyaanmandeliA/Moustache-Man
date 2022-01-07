@@ -16,6 +16,6 @@ canvas{
     margin-top: 50px; 
 }
 @keyframes oohhhhhh {
-    from {box-shadow: 1px 1px 30px black ;}
-    to {box-shadow: 1px 1px 30px grey ;}
+    from {box-shadow: 1px 1px 30px red ;}
+    to {box-shadow: 1px 1px 30px yellow ;}
 }
